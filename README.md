@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @iansuave33
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in travelling
+- 🌱 I’m currently learning web designing
+- 💞️ I’m looking to collaborate on new ways to be able to come up with solutions
+- 📫 How to reach me never mind
+  
 
 <!---
 iansuave33/iansuave33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
